@@ -1,0 +1,17 @@
+.content {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-title {
+    font-size: 3.5em;
+    font-weight: normal;
+}
+
+.week-number {
+    font-size: 4em;
+    font-weight: bold;
+}
